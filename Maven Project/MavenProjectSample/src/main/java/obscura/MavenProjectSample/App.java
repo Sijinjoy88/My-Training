@@ -18,9 +18,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 public class App 
 {
 	
-	/**
-	 * 
-	 */
+	
 	public static void readFromFile() {
 		try
         {
